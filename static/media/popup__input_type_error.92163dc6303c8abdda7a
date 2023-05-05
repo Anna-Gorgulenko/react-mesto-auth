@@ -1,0 +1,9 @@
+// Imports
+import ___CSS_LOADER_API_SOURCEMAP_IMPORT___ from "../../../../node_modules/css-loader/dist/runtime/sourceMaps.js";
+import ___CSS_LOADER_API_IMPORT___ from "../../../../node_modules/css-loader/dist/runtime/api.js";
+var ___CSS_LOADER_EXPORT___ = ___CSS_LOADER_API_IMPORT___(___CSS_LOADER_API_SOURCEMAP_IMPORT___);
+// Module
+___CSS_LOADER_EXPORT___.push([module.id, ".popup__input_type_error {\r\n   border-bottom: 1px solid #FF0000;\r\n}", "",{"version":3,"sources":["webpack://./src/blocks/popup/_type/popup__input_type_error"],"names":[],"mappings":"AAAA;GACG,gCAAgC;AACnC","sourcesContent":[".popup__input_type_error {\r\n   border-bottom: 1px solid #FF0000;\r\n}"],"sourceRoot":""}]);
+// Exports
+___CSS_LOADER_EXPORT___.locals = {};
+export default ___CSS_LOADER_EXPORT___;
