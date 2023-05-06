@@ -1,4 +1,8 @@
-const BASE_URL = "https://auth.nomoreparties.co"
+// const BASE_URL = "https://auth.nomoreparties.co"
+const BASE_URL = "http://104.131.160.75:3000"
+
+// Сообщение для ревью:
+// Сервер Яндекс.Практик не работает с 05.05.23 г. В Пачке написали что временно можно подключиться к другому серверу и дали ссылку - http://104.131.160.75:3000
 
 function checkResponse(res) {
   if (res.ok) {
